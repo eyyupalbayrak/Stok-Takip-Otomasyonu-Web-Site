@@ -1,0 +1,10 @@
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\bin\Debug\Akaryakit_Otomasyonu.exe.config
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\bin\Debug\Akaryakit_Otomasyonu.exe
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\bin\Debug\Akaryakit_Otomasyonu.pdb
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.Form1.resources
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.Properties.Resources.resources
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.exe
+C:\Users\galac\source\repos\Akaryakit_Otomasyonu\Akaryakit_Otomasyonu\obj\Debug\Akaryakit_Otomasyonu.pdb
